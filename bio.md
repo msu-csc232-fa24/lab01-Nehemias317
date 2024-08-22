@@ -1,0 +1,2 @@
+My name is Nehemias and I can play the guitar and bass.
+There was a lot of information given in this first lab. WSL was confusing to set up. GitHub was a lot easier to navigate, however the commit and push was still a bit confusing. 
